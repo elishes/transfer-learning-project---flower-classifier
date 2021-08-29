@@ -1,4 +1,4 @@
-# Transfer learning project - flower sorter
+# Transfer learning project - flower classifier
 the task at hand was to build, through transfer learning, models which could accuractely classify flowers into their correct categories (dandelions, roses, etc). 
 Three visual recognition models were used for this task - VGG-11, ResNet-18, and DenseNet121, all in PyTorch. 
 
